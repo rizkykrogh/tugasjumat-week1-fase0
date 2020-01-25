@@ -1,0 +1,69 @@
+/* Header Style*/
+header {
+    background-color: lightslategrey;
+    width: 100%;
+    padding: 0 30px;
+}
+
+header #logo {
+    width: 10%;
+}
+
+header nav {
+    float: right;
+    text-align: center;
+    padding: 0 30px;
+
+}
+
+header nav a {
+    text-decoration: none;
+}
+
+header #search {
+
+}
+
+header #home {
+    
+}
+
+header #blog {
+    
+}
+
+header #contact {
+    
+}
+
+/* Content Style*/
+section {
+    
+}
+
+.content1 {
+    
+}
+
+.publishdate1 {
+    
+}
+
+.contentbody1 {
+    
+}
+    
+.contentbody1 p {
+    
+}
+
+/* Footer Style*/
+footer {
+    background-color: lightslategrey;
+    color: white;
+    font-family: sans;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    margin-top: 30px;
+}
